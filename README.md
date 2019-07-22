@@ -5,6 +5,6 @@ Linux C five-chess
 new command for server:
 $ ./server  
 new command for client1:
-$ ./client 
+$ ./client   
 new command for client2:
-$ ./client
+$ ./client  
